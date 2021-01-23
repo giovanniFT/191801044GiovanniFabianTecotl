@@ -9,5 +9,7 @@
  * @author gio_f
  */
 public class Condicionales {
-    
+    public static void main(String args[]){
+        System.out.println("hola mundo");
+    }
 }
