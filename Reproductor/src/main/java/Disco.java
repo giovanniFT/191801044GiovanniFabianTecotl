@@ -36,7 +36,7 @@ public class Disco {
     @Override
     public String toString(){
         
-        return "año:" + anio + "artista:" + artista + "canciones" + canciones + "nombre:" + nombre;
+        return "año:" + anio + "\n"+ "artista:" + artista +  "\n" + "canciones" + canciones + "\n" + "nombre:" + nombre;
     }
     
 }
